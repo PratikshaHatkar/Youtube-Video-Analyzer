@@ -1,4 +1,6 @@
 # 🎥 AI YouTube Video Analyzer
+<img width="1366" height="601" alt="image" src="https://github.com/user-attachments/assets/a06e4c8b-df75-40dd-b1a9-eb13326d3500" />
+
 
 An AI-powered YouTube Video Analyzer that analyzes YouTube videos and generates structured analysis reports using Large Language Models (LLMs). It extracts video information, identifies important topics, creates meaningful timestamps, and summarizes key learning points.
 
